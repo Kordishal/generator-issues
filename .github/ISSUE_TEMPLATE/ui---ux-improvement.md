@@ -2,7 +2,7 @@
 name: UI / UX Improvement
 about: Suggest an improvement for the user interface or workflows.
 title: ''
-labels: enhancement
+labels: User Interface
 assignees: ''
 
 ---

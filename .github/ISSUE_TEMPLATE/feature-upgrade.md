@@ -2,7 +2,7 @@
 name: Feature upgrade
 about: Suggest an improvement / expansion of the generators
 title: ''
-labels: enhancement
+labels: Feature Request
 assignees: ''
 
 ---
